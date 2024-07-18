@@ -1,0 +1,8 @@
+plugins {
+    id(Plugins.APPLICATION) version Versions.AGP apply false
+    id(Plugins.LIBRARY) version Versions.AGP apply false
+    id(Plugins.COMPOSE) version Versions.COMPOSE_PLUGIN apply false
+    id(Plugins.COMPOSE_COMPILER) version Versions.KOTLIN apply false
+    id(Plugins.JVM) version Versions.KOTLIN apply false
+    id(Plugins.KMP) version Versions.KOTLIN apply false
+}
