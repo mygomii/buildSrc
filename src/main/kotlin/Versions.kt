@@ -8,7 +8,7 @@ object Versions {
     object Koin {
         const val DEFAULT = "3.2.0"
         const val COMPOSE = "1.1.5"
-        const val COMPOSE_VEIWMODEL = "1.2.0-Beta4"
+        const val COMPOSE_VIEW_MODEL = "1.2.0-Beta4"
     }
 
 

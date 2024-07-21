@@ -41,7 +41,7 @@ object Dependencies {
         const val ANDROID = "io.insert-koin:koin-android:${Versions.Koin.DEFAULT}"
 
         const val COMPOSE = "io.insert-koin:koin-compose:${Versions.Koin.COMPOSE}"
-        const val COMPOSE_VIEWMODEL = "io.insert-koin:koin-compose-viewmodel:${Versions.Koin.COMPOSE_VEIWMODEL}"
+        const val COMPOSE_VIEWMODEL = "io.insert-koin:koin-compose-viewmodel:${Versions.Koin.COMPOSE_VIEW_MODEL}"
     }
 
     object Google {
